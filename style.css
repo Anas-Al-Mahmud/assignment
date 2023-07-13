@@ -28,6 +28,7 @@ flex-shrink: 0;
 
 }
 
+
 .bannerimg{
     width: 635px;
 height: 800px;
@@ -238,6 +239,125 @@ flex-shrink: 0;
 padding-right: 10px;
 
 }
+.get-latest deal{
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+border-radius: 8px;
+background: lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+.photo-background{
+    background-image: url(./image/Rectangle\ 9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+}
+.background-text{
+    text-align: center;
+    padding-top: 150px;
+    color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.background-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+
+}
+.full-searchber{
+    display: flex;
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+
+
+
+}
+.write-email{
+    text-align: left; padding-top: 20px; padding-left: 50px;
+}
+.subscribe-button{
+    width: 120px;
+height: 50.429px;
+flex-shrink: 0;
+
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+/* footer section */
+.footer-section{
+    width: 1500px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+text-align: center;
+padding-top: 200px;
+padding-bottom: 0px;
+margin-bottom: 1px;
+text-align: justify;
+}
+.footer-header{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+
+}
+.shop{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+width: 
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
 
 
 
