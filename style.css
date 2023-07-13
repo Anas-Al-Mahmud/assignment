@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-conainer{
+    
+flex-shrink: 0;
+    background-color:#E55473;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.menus{
+    display: flex;
+    list-style: none;
+}
+.about{
+    margin-right: 80px;
+    padding-right: 10px;
+    font-size: 15px;
+    
+}
+.about:hover{
+    color:aqua
+
+}
+
+.bannerimg{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+}
+.banner-section{
+    width: px;
+height: 850px;
+flex-shrink: 0;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    border: 2px #E554731A;
+    align-items: center;
+    background-color: #E554731A;
+    border: #E554731A;
+}
+button{
+    border-radius: 8px;
+background: #E55473;
+
+padding: 10px 20px;
+
+border: none;
+margin-top: 20px;
+}
+.sec{
+    width: 1920px;
+height: 4867px;
+
+margin-top: 30px;
+
+.flower{
+    display: flex;
+    width: 200px;
+    height: 500px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    
+
+
+
+}
+.flower1{
+    
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+color: #A7216226;
+margin-right: 30px;
+
+
+
+
+}
+
+
+}
+.h4{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+padding-bottom: 26pxe;
+}
+.flower-text{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+}
+.section-sub{
+    width: 1052px;
+height: 220px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin-top: 100px;
+margin-left: 200px;
+}
+.sub-icon{
+    display: flex;
+
+    justify-content: space-around;
+    padding-top: 30px;
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+
+}
+
+
+
+
+
+span{
+    color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.sign-up{
+    display: flex;
+    background-color:#E55473;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 40px;
+    justify-content
+    align-items:center;
+    
+
+
+
+}
+.hotdeal-text{
+    padding-left: 400px;
+}
+.normal-text{
+     width: 1200px;
+    height: 150px;
+    text-align: center;
+
+    
+}
+.instagram{
+    color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+
+}
+.normal{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+
+font-style: normal;
+font-weight: 400;
+text-align: center;
+line-height: 30px; /* 166.667% */
+}
+.flower-item{
+    display: flex;
+    width: 1000px;
+height: 600px;
+flex-shrink: 0;
+padding-left: 200px;
+justify-content: space-around;
+
+}
+.flower1-weidth {
+    width: 270px;
+height: 340px;
+flex-shrink: 0;
+padding-right: 10px;
+
+}
+
+
+
+.flower2-weidth {
+    width: 270px;
+height: 340px;
+flex-shrink: 0;
+padding-right: 10px;
+
+}
+.flower3-weidth {
+    width: 270px;
+height: 340px;
+flex-shrink: 0;
+padding-right: 10px;
+
+}
+.flower4-weidth {
+    width: 270px;
+height: 340px;
+flex-shrink: 0;
+padding-right: 10px;
+
+}
+
+
+
+
+
